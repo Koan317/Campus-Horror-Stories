@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Process Ideas">
-    <mxGraphModel dx="4983" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="6257" dy="1995" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,16 +56,22 @@
         <mxCell id="pPUNchef9EgW3t-gLa2F-108" value="收集偶数日收集品" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=2;" vertex="1" parent="0DvFuNTm4Sl3EcMof9rq-2">
           <mxGeometry x="2728" y="94" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-3" value="收集奇数日收集品" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=2;" vertex="1" parent="0DvFuNTm4Sl3EcMof9rq-2">
+          <mxGeometry x="2903" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-4" value="收集偶数日收集品" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=2;" vertex="1" parent="0DvFuNTm4Sl3EcMof9rq-2">
+          <mxGeometry x="3035" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="nr45CDrM_3g_JWFm7fsB-110" value="第一天" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" parent="pPUNchef9EgW3t-gLa2F-91" vertex="1">
           <mxGeometry x="60" width="690" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nr45CDrM_3g_JWFm7fsB-111" value="第二到五天" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" parent="pPUNchef9EgW3t-gLa2F-91" vertex="1">
           <mxGeometry x="750" width="1031" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPUNchef9EgW3t-gLa2F-21" value="第六天（非学生会成员）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="pPUNchef9EgW3t-gLa2F-91">
+        <mxCell id="pPUNchef9EgW3t-gLa2F-21" value="第六天（未收集到关键物品）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="pPUNchef9EgW3t-gLa2F-91">
           <mxGeometry x="1781" width="515" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pPUNchef9EgW3t-gLa2F-43" value="第六天（学生会成员）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="pPUNchef9EgW3t-gLa2F-91">
+        <mxCell id="pPUNchef9EgW3t-gLa2F-43" value="第六天（已收集到）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="pPUNchef9EgW3t-gLa2F-91">
           <mxGeometry x="2296" width="192" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pPUNchef9EgW3t-gLa2F-101" value="永夜（固定22:30）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="pPUNchef9EgW3t-gLa2F-91">
@@ -78,12 +84,24 @@
         </mxCell>
         <mxCell id="pPUNchef9EgW3t-gLa2F-207" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#A8201A;fontColor=default;fillColor=#FAE5C7;labelBackgroundColor=none;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2876" y="1770" as="sourcePoint" />
+            <mxPoint x="2876" y="1821" as="sourcePoint" />
             <mxPoint x="2876" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pPUNchef9EgW3t-gLa2F-208" value="永昼" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="2913" y="126" width="91" height="43" as="geometry" />
+          <mxGeometry x="2934" y="126" width="91" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-1" value="回到昼夜时空&lt;div&gt;&lt;div&gt;早7:00&lt;/div&gt;&lt;div&gt;日期+1&lt;/div&gt;&lt;/div&gt;&lt;div&gt;位置不变&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="3150" y="117.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="pPUNchef9EgW3t-gLa2F-208" target="lRt3jlr5E-lw13fyZbai-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#A8201A;fontColor=default;fillColor=#FAE5C7;labelBackgroundColor=none;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3318" y="1821" as="sourcePoint" />
+            <mxPoint x="3318" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0DvFuNTm4Sl3EcMof9rq-39" value="宿舍走廊" style="swimlane;html=1;startSize=40;horizontal=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;swimlaneFillColor=none;" parent="pPUNchef9EgW3t-gLa2F-91" vertex="1">
           <mxGeometry x="20" y="421" width="4587" height="154" as="geometry" />
@@ -203,6 +221,9 @@
         <mxCell id="pPUNchef9EgW3t-gLa2F-28" value="食堂没饭" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="0DvFuNTm4Sl3EcMof9rq-47">
           <mxGeometry x="1821" y="107" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-5" value="支线：永夜时空的来源" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;strokeWidth=2;" vertex="1" parent="0DvFuNTm4Sl3EcMof9rq-47">
+          <mxGeometry x="2505" y="33.5" width="120" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="图书馆" style="swimlane;html=1;startSize=40;horizontal=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="pPUNchef9EgW3t-gLa2F-91" vertex="1">
           <mxGeometry x="20" y="1590" width="4587" height="261" as="geometry">
             <mxRectangle x="20" y="360" width="1820" height="30" as="alternateBounds" />
@@ -233,6 +254,9 @@
         </mxCell>
         <mxCell id="pPUNchef9EgW3t-gLa2F-227" value="类似非成员&lt;div&gt;（后续省略）&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=2;rounded=0;arcSize=0;labelBackgroundColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="1167" y="44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-6" value="支线：永昼时空的来源" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="2919" y="38" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0DvFuNTm4Sl3EcMof9rq-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="pPUNchef9EgW3t-gLa2F-91" source="nr45CDrM_3g_JWFm7fsB-1" target="0DvFuNTm4Sl3EcMof9rq-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -323,6 +347,26 @@
         <mxCell id="pPUNchef9EgW3t-gLa2F-106" value="回宿舍睡觉&lt;div&gt;日期+1&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;strokeWidth=2;" vertex="1" parent="pPUNchef9EgW3t-gLa2F-91">
           <mxGeometry x="2703" y="169" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.375;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="pPUNchef9EgW3t-gLa2F-91" source="pPUNchef9EgW3t-gLa2F-208" target="lRt3jlr5E-lw13fyZbai-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="pPUNchef9EgW3t-gLa2F-91" source="pPUNchef9EgW3t-gLa2F-208" target="lRt3jlr5E-lw13fyZbai-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="pPUNchef9EgW3t-gLa2F-91" source="lRt3jlr5E-lw13fyZbai-3" target="lRt3jlr5E-lw13fyZbai-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2983" y="774" />
+              <mxPoint x="3260" y="774" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" edge="1" parent="pPUNchef9EgW3t-gLa2F-91" source="lRt3jlr5E-lw13fyZbai-4" target="lRt3jlr5E-lw13fyZbai-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lRt3jlr5E-lw13fyZbai-116" value="第七天" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="pPUNchef9EgW3t-gLa2F-91">
+          <mxGeometry x="3338" width="442" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="pPUNchef9EgW3t-gLa2F-117" value="游戏流程" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;container=0;" vertex="1" parent="1">
           <mxGeometry x="-2430" y="191" width="4607" height="1821" as="geometry">
             <mxRectangle x="-2430" y="190" width="40" height="80" as="alternateBounds" />
@@ -352,7 +396,7 @@
         <mxCell id="nr45CDrM_3g_JWFm7fsB-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=default;fillColor=#FAE5C7;labelBackgroundColor=none;" parent="1" source="nr45CDrM_3g_JWFm7fsB-58" target="nr45CDrM_3g_JWFm7fsB-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nr45CDrM_3g_JWFm7fsB-58" value="教室守则（张贴在教学楼大门和教室门上）&lt;div&gt;1. 新学期，齐律动——让我们一起追求成功，欢迎全国第一梯队开学的同学们！&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2. 课间在教室内禁止大声喧哗，上课期间禁止交头接耳。&lt;/div&gt;&lt;div&gt;3. 师生应准时上下课，迟到、早退将被清除。拖堂的教师和打瞌睡的学生同样会被清除。&lt;/div&gt;&lt;div&gt;4. 请师生在正确的教室上课。若在错误教室上课，将被清除。&lt;/div&gt;&lt;div&gt;5. 大小课间时，教室内只允许教师停留，非上课期间禁止学生在教室内逗留。&lt;/div&gt;&lt;div&gt;6. 如果上课期间教师突然停止讲课并一言不发，说明教师已发生变异，请同学们立即离开教室，躲入厕所隔间。未能在限时内躲入隔间的学生将被教师吞掉。&lt;/div&gt;&lt;div&gt;7. 学生有义务按时完成作业并掌握已学知识。未完成作业或未能正确回答课堂提问的学生，将被要求上晚自习，时间为晚上10:30，地点在第一教学楼101室。未按时上晚自习的学生将被清除。&lt;/div&gt;&lt;div&gt;8. 夜间只有自习室是安全的，请勿离开自习室。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;9.&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
+        <mxCell id="nr45CDrM_3g_JWFm7fsB-58" value="教室守则（张贴在教学楼大门和教室门上）&lt;div&gt;1. 新学期，齐律动——让我们一起追求成功，欢迎全国第一梯队开学的同学们！&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2. 课间在教室内禁止大声喧哗，上课期间禁止交头接耳。&lt;/div&gt;&lt;div&gt;3. 师生应准时上下课，迟到、早退将被清除。拖堂的教师和打瞌睡的学生同样会被清除。&lt;/div&gt;&lt;div&gt;4. 请师生在正确的教室上课。若在错误教室上课，将被清除。&lt;/div&gt;&lt;div&gt;5. 大小课间时，教室内只允许教师停留，非上课期间禁止学生在教室内逗留。&lt;/div&gt;&lt;div&gt;6. 如果上课期间教师突然停止讲课并一言不发，说明教师已发生变异，请同学们立即离开教室，躲入厕所隔间。未能在限时内躲入隔间的学生将被教师吞掉。&lt;/div&gt;&lt;div&gt;7. 学生有义务按时完成作业并掌握已学知识。未完成作业或未能正确回答课堂提问的学生，将被要求上晚自习，开始时间为晚上10:30，地点在第一教学楼101室。未按时上晚自习的学生将被清除。&lt;/div&gt;&lt;div&gt;8. 夜间只有自习室是安全的，请勿离开自习室。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;9.&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="-2430" y="2887.5" width="770" height="220" as="geometry" />
         </mxCell>
         <mxCell id="nr45CDrM_3g_JWFm7fsB-59" value="教室守则（背后规则）&lt;div&gt;1. 提前一周开学的学校都是垃圾学校。&lt;/div&gt;&lt;div&gt;2. 3、4补充：有课的同学上课期间没有位于自己的教室内，会立即变成&lt;b style=&quot;background-color: initial;&quot;&gt;鬼魂&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;，上课期间不可以上厕所。灵体每晚在校园内游荡，接触到会掉血。有课的教师如果迟到早退拖堂，也会立即变成&lt;/span&gt;鬼魂&lt;span style=&quot;background-color: initial;&quot;&gt;。之后这门课将没有人上，学生也无需再去上课。教师可以被困住导致不能去上课。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. 5补充：会被老师吞掉。&lt;/div&gt;&lt;div&gt;4. 6补充：老师不会串厕所，如果是相反性别的老师，躲进厕所即可，不用躲进隔间。隔间容量有限，没躲进隔间的同学要么换个厕所，要么被老师抓。&lt;/div&gt;&lt;div&gt;5. 7补充：晚自习室10:30开启，此前都是正常教室。所有正常教室在没有人上课的时候可以自由出入。自习室位于永夜时空，所以时间是停止的，唯一的规则是学生假想的规则会出现在黑板上，但不会实现。离开晚自习教室（永夜时空）的唯一方法是偷偷潜回宿舍（或图书馆）睡觉，将会回到昼夜时空。&lt;/div&gt;&lt;div&gt;6. 空教室和食堂二楼的超市可以交换情报。&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
